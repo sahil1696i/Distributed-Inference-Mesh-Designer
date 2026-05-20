@@ -1,0 +1,6 @@
+{
+  "name": "DevOps Internship Workspace",
+  "description": "An interactive workbook, network simulator, and codebase generator to complete the Alchemyst RPC Inference DevOps Internship Assignment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
